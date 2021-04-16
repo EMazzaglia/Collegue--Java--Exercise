@@ -1,5 +1,3 @@
-package prendas;
-
 public class Nueva implements EstadoPrenda {
 
     @Override

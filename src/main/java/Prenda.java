@@ -1,9 +1,7 @@
-package prendas;
-
 public class Prenda {
     private double precioBase;
-    private EstadoPrenda estadoPrenda;
     private String tipo;
+    private EstadoPrenda estadoPrenda;
 
     public Prenda(String tipo, double precioBase, EstadoPrenda estadoPrenda) {
         this.tipo = tipo;

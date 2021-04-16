@@ -1,5 +1,3 @@
-package prendas;
-
 public class Promocion implements EstadoPrenda {
 
     private double valorFijo = 5.0;

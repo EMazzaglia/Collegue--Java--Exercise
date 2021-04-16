@@ -1,16 +1,12 @@
-package prendas;
-
 import java.time.LocalDate;
 
-public class Item {
+public class ItemVenta {
     private Prenda prenda;
     private int cantidad;
-    private LocalDate fechaVenta;
 
-    public Item(Prenda prenda, int cantidad, LocalDate fechaVenta) {
+    public ItemVenta(Prenda prenda, int cantidad) {
         this.prenda = prenda;
         this.cantidad = cantidad;
-        this.fechaVenta = fechaVenta;
     }
 
     public Prenda getPrenda() {
@@ -29,11 +25,4 @@ public class Item {
         this.cantidad = cantidad;
     }
 
-    public LocalDate getFechaVenta() {
-        return fechaVenta;
-    }
-
-    public void setFechaVenta(LocalDate fechaVenta) {
-        this.fechaVenta = fechaVenta;
-    }
 }
