@@ -11,3 +11,8 @@
    c.	Pantalón
 
 3.	Cuando se realiza una venta, se debe registrar el total de la misma.
+
+# Diagrama de clases
+
+![image](https://user-images.githubusercontent.com/31999516/114964999-23c5d880-9e46-11eb-8538-49ce1061539c.png)
+
