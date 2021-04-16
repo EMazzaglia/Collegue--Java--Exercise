@@ -11,3 +11,6 @@
    c.	Pantalón
 
 3.	Cuando se realiza una venta, se debe registrar el total de la misma.
+
+![image](https://user-images.githubusercontent.com/31999516/114964153-89b16080-9e44-11eb-9d69-8f837e0a46cd.png)
+
